@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using CleanArchitecture.Infrastructure.Persistence;
+using CleanArchitecture.Infrastructure.Persistence.Interceptors;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CleanArchitecture.Infrastructure;

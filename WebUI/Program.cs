@@ -1,4 +1,5 @@
 using CleanArchitecture.Application;
+using CleanArchitecture.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
